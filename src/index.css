@@ -1,0 +1,6 @@
+/* Reset CSS  para que não tenha padding e margin evitando overflow */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
