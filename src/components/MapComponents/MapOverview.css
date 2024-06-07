@@ -1,0 +1,12 @@
+.ol-overviewmap > button {
+  width: 32px !important;
+  height: 32px  !important;
+}
+
+.ol-overviewmap > button:hover {
+ cursor: pointer;
+}
+
+.ol-overviewmap:is(.ol-collapsed) > button{
+  border-radius: 100% !important;
+}
